@@ -1,0 +1,15 @@
+ru
+goodbye
+yes
+no
+house
+cat
+dog
+person
+college
+mammoth
+phone
+floor
+bed
+window
+
