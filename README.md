@@ -36,7 +36,6 @@ Click on the Quizlet button at the top of the screen.
 -Click the backward button to go to the previous word pair.
 
 
-
 ----------------------------------------------------------------------------------------------------------------------
 
 Part3: Asteroids:
@@ -50,3 +49,13 @@ Learning languages can now be even more exciting than the green Duolingo Owl thr
 -When the correct word is typed, the asteroid will automatically disappear (No need to press a specific key)
 -If you lose all of your lives, the game will end
 https://cloud.google.com/translate/docs/languages
+
+----------------------------------------------------------------------------------------------------------------------
+
+## Collaborators
+
+This project was a collaborative effort by the following individuals:
+
+- **Ephrata Getachew**
+- **Grady Herbert**
+- **Janna Parrot**  
