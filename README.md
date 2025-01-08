@@ -52,10 +52,10 @@ https://cloud.google.com/translate/docs/languages
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## Collaborators
+Collaborators
 
 This project was a collaborative effort by the following individuals:
 
-- **Ephrata Getachew**
-- **Grady Herbert**
-- **Janna Parrot**  
+- Ephrata Getachew
+- Grady Herbert
+- Janna Parrot
